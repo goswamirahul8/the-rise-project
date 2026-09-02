@@ -1,0 +1,5 @@
+Vercel CLI 59.11.2 (Node.js 24.11.0)
+> 
+  Visit https://vercel.com/oauth/device?user_code=RGWJ-RDHL
+
+Waiting for authentication...
